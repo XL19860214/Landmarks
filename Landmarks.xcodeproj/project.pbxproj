@@ -17,6 +17,7 @@
 		76AF29232776EAF800B2DC79 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AF29222776EAF800B2DC79 /* ModelData.swift */; };
 		76AF29272776EDE200B2DC79 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AF29262776EDE200B2DC79 /* LandmarkRow.swift */; };
 		76AF29292776F74E00B2DC79 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76AF29282776F74D00B2DC79 /* LandmarkList.swift */; };
+		76DB666C2777009600C73D0D /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76DB666B2777009600C73D0D /* LandmarkDetail.swift */; };
 		76DE02EE2776448600D0AF96 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76DE02ED2776448600D0AF96 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +33,7 @@
 		76AF29222776EAF800B2DC79 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		76AF29262776EDE200B2DC79 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		76AF29282776F74D00B2DC79 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		76DB666B2777009600C73D0D /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		76DE02ED2776448600D0AF96 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -99,6 +101,7 @@
 				765735F827764940003651C3 /* MapView.swift */,
 				76AF29262776EDE200B2DC79 /* LandmarkRow.swift */,
 				76AF29282776F74D00B2DC79 /* LandmarkList.swift */,
+				76DB666B2777009600C73D0D /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				765735F927764940003651C3 /* MapView.swift in Sources */,
 				768F98C5277637D10093EFC2 /* LandmarksApp.swift in Sources */,
 				76AF29292776F74E00B2DC79 /* LandmarkList.swift in Sources */,
+				76DB666C2777009600C73D0D /* LandmarkDetail.swift in Sources */,
 				76DE02EE2776448600D0AF96 /* CircleImage.swift in Sources */,
 				76AF290B2776E5EF00B2DC79 /* Landmark.swift in Sources */,
 				76AF29272776EDE200B2DC79 /* LandmarkRow.swift in Sources */,
