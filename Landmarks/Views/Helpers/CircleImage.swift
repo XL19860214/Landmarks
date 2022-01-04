@@ -3,7 +3,7 @@
 //  Landmarks
 //
 //  Created by Xuwei Li on 12/25/21.
-//  Copyright © 2021 V4EX Inc. All Rights Reserved.
+//  Copyright © 2021 Xuwei Li. All Rights Reserved.
 //
 
 import SwiftUI
